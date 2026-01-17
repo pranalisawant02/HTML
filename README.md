@@ -17,12 +17,7 @@ A responsive Amazon homepage clone built using **HTML5 and CSS3** as my first fr
 - CSS3
 - Flexbox
 
----
-
-## 📸 Screenshots
-
-### Homepage
-![Homepage](dekstop/HTML/op_images)
+---)
 
 
 
